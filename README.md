@@ -1,6 +1,6 @@
 # Coffee
 
-Keep your macbook awake with this tool, input the amount of minutes you would like to keep screen on for.
+Prevent your macbook from sleeping, simply input the number of minutes as the duration.
 
-<img width="1039" alt="coffee" src="https://www.health.harvard.edu/media/content/images/L1602_Coffee_TSk-482504936.png">
-
+### Automator Workflow Preview
+<a href="https://ibb.co/gvSCysq"><img src="https://i.ibb.co/s5KrjLx/Thumbnail.png" alt="Thumbnail" border="0"></a>
